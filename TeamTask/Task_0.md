@@ -13,7 +13,8 @@
 
 举个栗子：
 如成员A 完成了本次任务
-1. 首先在MemberTask目录下新建一个目录，目录名为 ***A***
-2. 将写好的Markdown文件命名为Task_0.md
-3. 将Task_0.md放在目录 ***A*** 下面
-4. 提交Pull Request到主项目
+
+>1. 首先在MemberTask目录下新建一个目录，目录名为 ***A***
+>2. 将写好的Markdown文件命名为Task_0.md
+>3. 将Task_0.md放在目录 ***A*** 下面
+>4. 提交Pull Request到主项目
